@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/samSargsyan.github.io/engineering/static/css/main.de3e0ca2.css",
+    "main.js": "/samSargsyan.github.io/engineering/static/js/main.96720b57.js",
+    "static/js/453.1e7f5f37.chunk.js": "/samSargsyan.github.io/engineering/static/js/453.1e7f5f37.chunk.js",
+    "static/media/engineer.webp": "/samSargsyan.github.io/engineering/static/media/engineer.7ca9ff23c039f627e599.webp",
+    "static/media/quantitySurveyor.jpg": "/samSargsyan.github.io/engineering/static/media/quantitySurveyor.99448f47b614aa85f9ed.jpg",
+    "static/media/electrician.png": "/samSargsyan.github.io/engineering/static/media/electrician.d4425fd4a3e01e17ebd4.png",
+    "static/media/types.webp": "/samSargsyan.github.io/engineering/static/media/types.8d0c68c37d651f690e32.webp",
+    "static/media/lightingDesigner.png": "/samSargsyan.github.io/engineering/static/media/lightingDesigner.a99e4685b7b1897bb379.png",
+    "static/media/insulation.png": "/samSargsyan.github.io/engineering/static/media/insulation.5e1df64de42ba29d5d55.png",
+    "static/media/windowInstallation.jpg": "/samSargsyan.github.io/engineering/static/media/windowInstallation.f68944a89327d4e6ff5d.jpg",
+    "static/media/concreteConstructor.png": "/samSargsyan.github.io/engineering/static/media/concreteConstructor.44a468dba97b7be7ac1e.png",
+    "static/media/glassConstructing.jpg": "/samSargsyan.github.io/engineering/static/media/glassConstructing.1986f35246b566251992.jpg",
+    "static/media/hvacTechnician.png": "/samSargsyan.github.io/engineering/static/media/hvacTechnician.28b6c8da3920b78be179.png",
+    "static/media/engineer.jpg": "/samSargsyan.github.io/engineering/static/media/engineer.5e528f552699cbe5c0fc.jpg",
+    "static/media/painting.jpg": "/samSargsyan.github.io/engineering/static/media/painting.59bf57692becee398612.jpg",
+    "static/media/teamwork.jpg": "/samSargsyan.github.io/engineering/static/media/teamwork.249c0e0d7a986dee0d7c.jpg",
+    "static/media/plumbing.png": "/samSargsyan.github.io/engineering/static/media/plumbing.d5c6b3a9be517fd3ff9f.png",
+    "static/media/landSurveyor.png": "/samSargsyan.github.io/engineering/static/media/landSurveyor.942c59f8dbae2626253b.png",
+    "static/media/tileSettling.png": "/samSargsyan.github.io/engineering/static/media/tileSettling.9f8a4e19640a9a9f9b68.png",
+    "static/media/projectManager.png": "/samSargsyan.github.io/engineering/static/media/projectManager.cbbdb36fdf4434730398.png",
+    "index.html": "/samSargsyan.github.io/engineering/index.html",
+    "main.de3e0ca2.css.map": "/samSargsyan.github.io/engineering/static/css/main.de3e0ca2.css.map",
+    "main.96720b57.js.map": "/samSargsyan.github.io/engineering/static/js/main.96720b57.js.map",
+    "453.1e7f5f37.chunk.js.map": "/samSargsyan.github.io/engineering/static/js/453.1e7f5f37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de3e0ca2.css",
+    "static/js/main.96720b57.js"
+  ]
+}
