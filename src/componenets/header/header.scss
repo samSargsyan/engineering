@@ -1,0 +1,20 @@
+.header {
+  color: white;
+  padding: 40px 0 20px 0;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  gap: 35px;
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  background-color: #00000025;
+  align-items: center;
+  .menu {
+    display: flex;
+    gap: 35px;
+  }
+  img {
+    height: 100px;
+  }
+}

@@ -1,0 +1,78 @@
+.home {
+  width: 100%;
+  position: relative;
+  height: 85vh;
+  .engineerImage {
+    width: 100%;
+    height: 100%;
+    animation-name: slideDown;
+    background-image: url("../../images/engineer.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    z-index: -1;
+  }
+  .intro {
+    width: 100%;
+    height: 50vh;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-sizing: border-box;
+    span {
+      font-family: "Quicksand", sans-serif;
+      width: 50%;
+    }
+    img {
+      width: 25%;
+      object-fit: contain;
+    }
+  }
+  .categories {
+    text-align: left;
+    position: relative;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    img {
+      box-sizing: border-box;
+      width: 50%;
+      padding: 0 100px;
+    }
+    p {
+      font-size: 25px;
+      width: 50%;
+      position: absolute;
+      padding: 0 100px;
+      box-sizing: border-box;
+    }
+  }
+}
+.categoryImg {
+  position: absolute;
+  z-index: 100;
+  transform: translateX(0);
+  transition: all 1s ease-in-out;
+}
+
+.categoryImg.animate {
+  transform: translateX(100%);
+}
+
+.selectCategory {
+  font-size: larger;
+  font-weight: bold;
+}
+
+@keyframes slideDown {
+  from {
+    top: -500px;
+    opacity: 0.5;
+  }
+  to {
+    top: 0px;
+    opacity: 1;
+  }
+}

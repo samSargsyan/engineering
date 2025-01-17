@@ -1,0 +1,19 @@
+.aboutUs {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 2%;
+  padding: 2%;
+
+  .aboutTitle {
+    text-align: center;
+    font-size: 70px;
+    margin-top: 50px;
+    width: 100%;
+  }
+  p {
+    font-size: 18px;
+    width: 48%;
+  }
+}
